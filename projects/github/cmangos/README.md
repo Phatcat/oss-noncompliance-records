@@ -15,4 +15,4 @@ Analysis of systemic issues beyond individual commits:
 * **[License Compliance Audit](./audits/license_audit.md)**: Record of unauthorized license reversion and stated governance apathy.
 
 ## Synthesis
-* **[Master Meta-Audit (2016–2026)](./audits/meta-audit.md)**: The comprehensive analysis binding technical, financial, and legal findings into a single record of project Standard Operating Procedure (SOP).
+* **[Master Meta-Audit (2016–2026)](./audits/meta_audit.md)**: The comprehensive analysis binding technical, financial, and legal findings into a single record of project Standard Operating Procedure (SOP).
